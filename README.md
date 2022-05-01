@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Om Prakash Meher(Fullstack Developer)
 - 👀 I’m interested in Software Developing, Web Designing(Fullstack) and App Designing(Android)
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Web App Developement
+- 💞️ I’m looking to collaborate on Web App Development
 - 📫 How to reach me omprakashmeher437@gmail.com
 
 <!---
